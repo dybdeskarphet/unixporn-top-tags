@@ -1,7 +1,3 @@
-<p align="center">
-  <h1><a href="https://github.com/dybdeskarphet/unixporn-top-tags/blob/main/tag-count.csv">Tags</a></h1>
-</p>
-
 | count | tags               |
 |-------|--------------------|
 | 125   | i3(-gaps)          |
