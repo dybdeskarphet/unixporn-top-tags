@@ -12,7 +12,7 @@ count,wm and dwm
 19,ratpoison
 18,openbox
 11,aqua
-10,xmonad
+11,xmonad
 9,xfce4
 5,cinnamon
 5,hyprland
@@ -63,4 +63,3 @@ count,wm and dwm
 1,vtm
 1,wezterm
 1,windowmaker
-1,xmonad wm
