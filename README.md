@@ -8,6 +8,9 @@ This script is designed to analyze and aggregate the tags used in post titles on
 
 - Python 3.x
 - PRAW (Python Reddit API Wrapper)
+- Pandas
+- NumPy
+- Matplotlib
 
 ### Installation
 
@@ -42,6 +45,8 @@ CLIENT_SECRET=your_client_secret_here
 
 ## 📝 Usage
 
+### Create the data
+
 Run the script using Python:
 
 ```bash
@@ -50,12 +55,23 @@ python tag_counter.py
 
 The script will fetch data from the subreddit, process it, and output the results in a file named `tag_counts.csv`.
 
+### Create graph from the data
+
+Run the script using Python:
+
+```bash
+python tag_counter.py
+```
+
+This script will create a horizontal bar graph from the resulting data.
+
 ## 📚 Features
 
 - Fetches top posts from /r/unixporn for each year since the subreddit's creation.
 - Extracts and normalizes tags from post titles.
 - Counts the occurrence of each tag.
 - Outputs the result in a CSV file for easy analysis.
+- Create a graph from the resulting CSV file.
 
 ## ⚙️ Customization
 
