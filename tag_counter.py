@@ -14,16 +14,18 @@ def get_year_from_timestamp(timestamp):
 
 
 def normalize_tag(tag):
-    prefixes = ["kde", "xfce", "i3", "herbstluft", "sway"]
+    tag = tag.lower()
+    tag_mapping = {
+        "hypr": "hyprland/hypr",
+        "hyprland": "hyprland/hypr",
+        "plasma kde": "kde",
+        "plasma": "kde",
+    }
 
+    prefixes = ["kde", "xfce", "i3", "herbstluft", "sway", "gnome", "awesome"]
     for prefix in prefixes:
         if tag.startswith(prefix):
             return prefix
-
-    tag = tag.lower()
-    tag_mapping = {
-        "awesome": "awesomewm",
-    }
 
     return tag_mapping.get(tag, tag)
 
@@ -56,7 +58,7 @@ for year in range(start_year, current_year + 1):
                         tag_counts.update([normalized_tag])
 
 
-with open("tag_counts.csv", "w", newline="", encoding="utf-8") as file:
+with open("data/tag_counts.csv", "w", newline="", encoding="utf-8") as file:
     writer = csv.writer(file)
     writer.writerow(["Tag", "Count"])
     for tag, count in tag_counts.most_common():
