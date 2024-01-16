@@ -11,6 +11,7 @@ This script is designed to analyze and aggregate the tags used in post titles on
 - Pandas
 - NumPy
 - Matplotlib
+- python-dotenv
 
 ### Installation
 
