@@ -88,3 +88,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 ## 🌟 Acknowledgements
 
 Special thanks to the Reddit community and the developers of PRAW for making this project possible.
+
+## 📈 A graph from January 2024
+
+<img src="data/graph.svg"/>
