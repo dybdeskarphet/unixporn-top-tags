@@ -3,6 +3,7 @@ import matplotlib.ticker as ticker
 import pandas as pd
 import numpy as np
 
+
 # Function to generate darker colors
 def get_colors(num_colors):
     return [
@@ -16,7 +17,7 @@ def get_colors(num_colors):
 
 
 # Load data
-data = pd.read_csv("tag_counts.csv")
+data = pd.read_csv("data/tag_counts.csv")
 df = pd.DataFrame(data).head(30)
 
 # Convert counts to percentages
@@ -73,5 +74,5 @@ ax.set_xlabel("Percentage", fontsize=20)
 ax.set_ylabel("Tags", fontsize=20)
 
 # Show the plot
-plt.savefig("graph.png", dpi=200)
+plt.savefig("data/graph.svg", dpi=200)
 plt.show()
