@@ -1,25 +1,22 @@
 Tag,Count
-hyprland,135
+hyprland/hypr,138
+kde,127
+gnome,98
 i3,95
-gnome,94
 bspwm,89
-kde,77
-awesomewm,55
+awesome,56
 oc,47
 dwm,47
-xfce,39
+xfce,43
 openbox,33
-kde plasma,28
-sway,26
+sway,32
 qtile,18
 yabai,18
 xmonad,16
-plasma,14
 polybar,14
 cinnamon,11
 ragnar,11
 icewm,8
-plasma kde,6
 bismuth,5
 mate,5
 waybar,5
@@ -27,12 +24,9 @@ sowm,5
 rofi,4
 xragnar,4
 picom,4
-xfce4,4
 jwm,3
-gnome 44,3
-hypr,3
+herbstluft,3
 lxqt,3
-swaywm,3
 aqua,3
 fluxbox,3
 grub,2
@@ -41,8 +35,6 @@ arch,2
 wallpapers,2
 emacs,2
 marswm,2
-swayfx,2
-herbstluftwm,2
 kitty,2
 rectangle,2
 nscde,2
@@ -73,13 +65,11 @@ thinkpad a20m,1
 xfcxe,1
 m1 macbook pro,1
 arm64,1
-herbstluft,1
 mutter,1
 komorebi,1
 dunst,1
 zellij,1
 !pop_os,1
-swaynowuwurusplis,1
 paleofetch-mac-prettier,1
 tty,1
 x230,1
@@ -92,7 +82,6 @@ fim,1
 uxterm,1
 ed,1
 cinnamon de,1
-kde1,1
 vm,1
 cms,1
 plymouth,1
@@ -103,7 +92,6 @@ kanagawa,1
 cool-retro-term,1
 ratpoison,1
 desktop,1
-awesome wm,1
 amethyst,1
 fvwm,1
 lightdm,1
@@ -113,7 +101,6 @@ tokyo dark,1
 nord,1
 thinkpad r500,1
 2bwm,1
-gnome gtk4,1
 cyberpunk,1
 berry,1
 not oc,1
@@ -140,7 +127,6 @@ st,1
 weston,1
 nvidia,1
 kwin,1
-kde bismuth,1
 mac,1
 kvm,1
 window maker,1
