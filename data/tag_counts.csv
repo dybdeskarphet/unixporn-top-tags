@@ -1,139 +1,130 @@
 Tag,Count
-hyprland/hypr,138
-kde,127
-gnome,98
-i3,95
-bspwm,89
-awesome,56
-oc,47
-dwm,47
-xfce,43
-openbox,33
-sway,32
-qtile,18
-yabai,18
-xmonad,16
-polybar,14
-cinnamon,11
-ragnar,11
-icewm,8
-bismuth,5
+hyprland/hypr,194
+kde,120
+i3,100
+gnome,82
+bspwm,77
+oc,71
+awesome,57
+xfce,39
+dwm,33
+sway,22
+openbox,21
+qtile,16
+yabai,16
+xmonad,12
+cinnamon,12
+polybar,8
+ragnar,7
+icewm,7
 mate,5
-waybar,5
-sowm,5
-rofi,4
-xragnar,4
-picom,4
-jwm,3
-herbstluft,3
+jwm,4
+herbstluft,4
+grub,3
+neovim,3
+bismuth,3
+rofi,3
+tty,3
 lxqt,3
-aqua,3
-fluxbox,3
-grub,2
-neovim,2
+waybar,3
+rectangle,3
+sowm,3
+twm,2
 arch,2
-wallpapers,2
+xragnar,2
+picom,2
 emacs,2
-marswm,2
-kitty,2
-rectangle,2
-nscde,2
-wms,2
-! wm,2
-cwm,2
-sdorfehs,2
-orw,2
-unity,2
-freebsd,2
+amethyst,2
+none,2
+catppuccin,2
+2bwm,2
+plymouth,2
+macos,2
+fvwm,2
+aqua,2
+lightdm,2
+tmux,2
 steamdeck,1
 templeos,1
 microsoft w10,1
 surface go 2,1
+hackmatrix,1
 nyxt,1
 lego ev3,1
 m2 macbook air,1
+clock,1
 lorem ipsum,1
-netbook,1
 greetd,1
+iphone,1
 artix,1
 kera desktop,1
 refind,1
 xperia 10 iii w,1
 sailfish w,1
+wallpapers,1
 homarr 0.11,1
 thinkpad a20m,1
 xfcxe,1
 m1 macbook pro,1
+edex-ui,1
+voxelwm,1
 arm64,1
+marswm,1
 mutter,1
 komorebi,1
 dunst,1
+idk,1
 zellij,1
 !pop_os,1
+nixos,1
 paleofetch-mac-prettier,1
-tty,1
+wayfire,1
+colorscheme,1
+meta discussion,1
 x230,1
 chicago95,1
 (b)lfs,1
-catppuccin,1
+ctwm,1
+kitty,1
+rosepine,1
 dk,1
+hyrpland,1
 evilwm,1
 fim,1
 uxterm,1
 ed,1
 cinnamon de,1
+discord,1
 vm,1
 cms,1
-plymouth,1
-macos,1
+hyprlanad,1
+mint,1
 apple a,1
 ux,1
+emwm,1
+nscde,1
 kanagawa,1
+wallpaper,1
 cool-retro-term,1
+slwm,1
 ratpoison,1
 desktop,1
-amethyst,1
-fvwm,1
-lightdm,1
+wms,1
+hypnos,1
+windowmaker,1
+spectrwm,1
+eww,1
+externos,1
+pekwm,1
+hyplrand,1
+trinity,1
 switch and 3ds,1
 doubt,1
+nobara 39,1
+fluxbox,1
 tokyo dark,1
 nord,1
-thinkpad r500,1
-2bwm,1
-cyberpunk,1
+laptop,1
+fabric,1
 berry,1
-not oc,1
-pekwm,1
-mint xfce (repost),1
-pomodoro timer,1
-lo-fi radio,1
-play from youtube,1
-bug fixes,1
-artix linux,1
-tint2,1
-pde,1
-nisos,1
-eww - ios widgets,1
-dwl-guile,1
 dwl,1
-slwm,1
-stumpwm,1
-msteams,1
-bspwm x arch x thinkpadx270,1
-homarr,1
-void,1
-st,1
-weston,1
-nvidia,1
-kwin,1
-mac,1
-kvm,1
-window maker,1
-exwm,1
-hp-ux,1
-cde,1
-qvwm,1
-river,1
-tmux,1
-instantwm,1
