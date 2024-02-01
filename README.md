@@ -1,6 +1,6 @@
 # 📊 r/unixporn Top Tags
 
-This script is designed to analyze and aggregate the tags used in post titles on the [/r/unixporn](https://www.reddit.com/r/unixporn/) subreddit. It fetches posts from Reddit, extracts tags from post titles, normalizes them, and then counts their occurrences, outputting the result in a CSV file.
+This script is designed to analyze and aggregate the tags used in post titles on the [/r/unixporn](https://www.reddit.com/r/unixporn/) subreddit. It fetches posts from Reddit, extracts tags from post titles, normalizes them, and then counts their occurrences, outputting the result in a CSV file
 
 ## 🚀 Getting Started
 
